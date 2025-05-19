@@ -1,0 +1,9 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق متعدد اللغات",
+  "welcomeMessage": "مرحبًا بك في تطبيقنا!",
+  "selectLanguage": "اختر اللغة",
+  "continueButton": "استمرار",
+  "secondScreenTitle": "الشاشة الثانية",
+  "secondScreenMessage": "هذه هي الشاشة الثانية"
+}

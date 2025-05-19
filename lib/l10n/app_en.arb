@@ -1,0 +1,8 @@
+{
+  "appTitle": "Multi Language App",
+  "welcomeMessage": "Welcome to our application!",
+  "continueButton": "Continue",
+  "secondScreenTitle": "Second Screen",
+  "secondScreenMessage": "This is the second screen.",
+  "selectLanguage": "Select Language"
+}
